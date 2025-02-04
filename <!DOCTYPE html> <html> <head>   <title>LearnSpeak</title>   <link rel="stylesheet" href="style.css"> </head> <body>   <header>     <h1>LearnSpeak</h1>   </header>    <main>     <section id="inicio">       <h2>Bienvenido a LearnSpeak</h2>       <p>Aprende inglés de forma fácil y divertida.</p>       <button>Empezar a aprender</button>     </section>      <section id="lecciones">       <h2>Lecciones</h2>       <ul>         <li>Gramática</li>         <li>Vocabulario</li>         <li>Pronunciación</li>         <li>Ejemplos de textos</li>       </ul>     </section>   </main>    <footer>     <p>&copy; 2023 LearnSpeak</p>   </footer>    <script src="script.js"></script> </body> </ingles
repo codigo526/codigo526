@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LearnSpeak</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>LearnSpeak</h1>
+  </header>
+
+  <main>
+    <section id="inicio">
+      <h2>Bienvenido a LearnSpeak</h2>
+      <p>Aprende inglés de forma fácil y divertida.</p>
+      <button>Empezar a aprender</button>
+    </section>
+
+    <section id="lecciones">
+      <h2>Lecciones</h2>
+      <ul>
+        <li>Gramática</li>
+        <li>Vocabulario</li>
+        <li>Pronunciación</li>
+        <li>Ejemplos de textos</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 LearnSpeak</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
